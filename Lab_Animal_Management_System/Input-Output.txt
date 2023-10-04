@@ -1,0 +1,22 @@
+Input:
+Add animal : "Cage001", "A001", "Ginuepig", "Female", 6, "black"
+Add animal : "Cage001", "A002", "Tiger", "Male", 6, "Gray"
+Find Animal by Id: "A001"
+Find Animal by Id: "A002"
+
+
+
+Output:
+It's a mammal 
+Hair color: black
+ID: A001
+Species: Ginuepig
+Gender: Female
+Age (months): 6
+
+It's a mammal
+Hair color: Gray
+ID: A002
+Species: Tiger
+Gender: Male
+Age (months): 6
