@@ -1,4 +1,4 @@
-# Laboratory Animal Management Systemb
+# Laboratory Animal Management System
 
 ## Description
 
