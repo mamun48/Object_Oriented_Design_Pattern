@@ -1,4 +1,4 @@
-# Composite Design Pattern Example
+# Composite Design Pattern Implementation
 
 This program demonstrates the Composite design pattern, a structural design pattern that allows you to compose objects into tree structures to represent part-whole hierarchies. In this example, we create a building composed of generic housing structures, including apartments and houses. The program illustrates how the Composite pattern enables the treatment of individual housing structures and composite structures (buildings) uniformly.
 
